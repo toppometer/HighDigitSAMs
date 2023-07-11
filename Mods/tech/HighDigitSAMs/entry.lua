@@ -1,11 +1,11 @@
 declare_plugin("HighDigitSAMs",
 {
 installed 	 	  = true,
-displayName   = _("High Digit SAMs"),
+displayName   = _("High Digit SAMs 107th Fixes"),
 shortName	  =   "HighDigitSAMs",
 state		 	  = "installed",
-developerName	  = "E. 'Wiki' Crouch",
-version		 	  = "1.4.2",	
+developerName	  = "E. 'Wiki' Crouch; Modified by Recoil & Whiskey",
+version		 	  = "1.0.0",	
 info		  =    _("Adds various modern and historical air defense units to DCS world."),	 
 encyclopedia_path = current_mod_path .. '/Encyclopedia',
 })
