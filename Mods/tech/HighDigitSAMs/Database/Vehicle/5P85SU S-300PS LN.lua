@@ -39,6 +39,7 @@ GT.WS[ws].LN[1].reactionTime = 0.1;
 GT.WS[ws].LN[1].PL[1].ammo_capacity = 4;
 GT.WS[ws].LN[1].PL[1].shot_delay = 0.1;
 GT.WS[ws].LN[1].PL[1].reload_time = 7200;
+GT.WS[ws].LN[1].PL[1].type_ammunition = { 4, 4, 34, 80 };
 GT.WS[ws].LN[1].BR[1] = {pos = {1.0, -0.8,-1.045}, drawArgument = 4 };
 GT.WS[ws].LN[1].BR[2] = {pos = {1.0, 0.3, -0.614}, drawArgument = 5 };
 GT.WS[ws].LN[1].BR[3] = {pos = {1.0, 0.3, 0.614}, drawArgument = 6 };
