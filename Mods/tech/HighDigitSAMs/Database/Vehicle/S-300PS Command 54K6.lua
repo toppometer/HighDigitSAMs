@@ -48,7 +48,7 @@ for i = 1,15 do
 	GT.WS[ws].LN[1].reflection_limit = 0.049;
     GT.WS[ws].LN[1].min_trg_alt = 5
     GT.WS[ws].LN[1].max_trg_alt = GT.sensor.max_alt_finding_target;
-    GT.WS[ws].LN[1].depends_on_unit = {{{"S-300PS SA-10B 40B6MD MAST sr",},},{{"S-300PS 64H6E TRAILER sr",},},};
+    GT.WS[ws].LN[1].depends_on_unit = {{{"S-300PS SA-10B 40B6MD MAST sr"}},{{"S-300PS 64H6E TRAILER sr"}},{{"RLS_19J6"}}};
 end
 
 GT.Name = "S-300PS SA-10B 54K6 cp"
