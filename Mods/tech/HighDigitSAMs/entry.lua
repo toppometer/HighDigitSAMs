@@ -70,12 +70,6 @@ weapon_file("/Database/Weapon/9M83.lua")
 weapon_file("/Database/Weapon/9M342.lua")
 weapon_file("/Database/Weapon/9M36.lua")
 weapon_file("/Database/Weapon/ammunition.lua")
-weapon_file("/Database/Weapon/cannon.lua")
-
---KS-19
-
-vehicle_file("/Database/Vehicle/radar/SON-9.lua")
-vehicle_file("/Database/Vehicle/KS19.lua")
 
 --S-300PS
 
